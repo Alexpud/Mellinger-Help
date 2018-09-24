@@ -1,0 +1,10 @@
+Liam Smith, 5, 87, 52, 35.5, 78, 84.5
+Emma Johnson, 4, 92.5, 87, 73, 84.5
+Noah Williams, 5, 73.5, 82, 87, 64, 93.5 
+Olivia Brown, 6, 87.5, 77, 72, 83, 91, 72
+William Jones, 3, 42, 63, 56
+Ava Miller, 5, 75, 69, 84, 92, 85.5
+James Davis, 5, 100, 84.5, 92, 95, 88
+Isabella Garcia, 6, 93, 77, 82, 94, 91, 89
+Logan Rodriguez, 5, 87, 79, 64, 81, 85
+Sophia Wilson, 0
